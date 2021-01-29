@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Rita's blog 📓✨`,
+    title: `📒 Dina's Yellow Pages Page📒`,
     author: {
-      name: `Pages McPageyPants`,
-      summary: `says hi.`,
+      name: `🌞🌙⚡️🍋🍯🏵📒✨`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what we can do with Pages.`,
-    siteUrl: `https://my-name.pages.dev`,
+    description: `My favorite yellow pages book:`,
+    siteUrl: `https://www.cloudflare.com/dns/`,
     social: {
-      twitter: `cloudflaredev`,
+      twitter: `cloudflare`,
     },
   },
   plugins: [
@@ -60,10 +60,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rita's Blog`,
+        name: `Dina's Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#fcaeff`,
+        background_color: `#ffbf00`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
